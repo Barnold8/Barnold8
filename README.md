@@ -1,6 +1,6 @@
-# Hello world!
+# Hello world! 👋
 
-
+I am a compiter science student at the University Of Nottingham on my second year! I am also a hobbyist programmer who loves his video games and a varied range of alternative music. Sharing knowledge to others is something I find very enjoyable, anybody can learn programming and I want to share my knowledge to those who want to learn!
 
 
 # The languages seen in my projects! 🖥️
