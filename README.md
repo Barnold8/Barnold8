@@ -4,12 +4,12 @@ I am a computer science student at the [University of Nottingham](https://cs.not
 
 
 # The languages seen in my projects! 🖥️ [Using this script i've made!](https://github.com/Barnold8/OddPyPrograms/blob/main/GitHubLang.py)
-> Python :        28.92%  <br />
-> JavaScript :    12.05%  <br />
-> C++ :           12.05%  <br />
-> C :             8.43%   <br />
-> Assembly :      6.02%   <br />
-> PHP :           2.41%   <br />
-> Lua :           1.20%   <br />
-> Other :         1.20%   <br /><br />
+> Python :        27.91%  <br />
+> JavaScript :    11.63%  <br />
+> C++ :           11.63%  <br />
+> C :             8.14%   <br />
+> Assembly :      5.81%   <br />
+> PHP :           2.33%   <br />
+> Lua :           2.33%   <br /><br />
 **NOTE: keep in mind some of these langs will derive from code libraries and other dependancies**
+**SIDE NOTE: this wont add up to 100% because I kept some irrelevant data out**
