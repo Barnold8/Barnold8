@@ -13,3 +13,4 @@ I am a computer science student at the [University of Nottingham](https://cs.not
 > Lua :           2.33%   <br /><br />
 **NOTE: keep in mind some of these langs will derive from code libraries and other dependancies**
 **SIDE NOTE: this wont add up to 100% because I kept some irrelevant data out**
+**SIDE SIDE NOTE: if this isnt updated recently, then the percentages wont be accurate**
