@@ -4,13 +4,18 @@ I am a computer science student at the [University of Nottingham](https://cs.not
 
 
 # The languages seen in my projects! 🖥️ [Using this script i've made!](https://github.com/Barnold8/OddPyPrograms/blob/main/GitHubLang.py)
-> Python :        27.91%  <br />
-> JavaScript :    11.63%  <br />
-> C++ :           11.63%  <br />
-> C :             8.14%   <br />
-> Assembly :      5.81%   <br />
-> PHP :           2.33%   <br />
-> Lua :           2.33%   <br /><br />
+Python :        29.03% <br/>
+JavaScript :    10.75% <br/>
+C++ :   10.75%         <br/>
+C :     9.68%          <br/>
+CSS :   7.53%          <br/>
+HTML :  6.45%          <br/>
+Assembly :      5.38%  <br/>
+Batchfile :     4.30%  <br/>
+Shell :         3.23%  <br/>
+Lua :   2.15%          <br/>
+PHP :   2.15%          <br/>
+Java :  1.08%          <br/><br/>
 **NOTE: keep in mind some of these langs will derive from code libraries and other dependancies**
 **SIDE NOTE: this wont add up to 100% because I kept some irrelevant data out**
 **SIDE SIDE NOTE: if this isnt updated recently, then the percentages wont be accurate**
