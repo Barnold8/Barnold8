@@ -20,13 +20,19 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">N/A</h2></summary>
+    <summary><h2 style="display: inline-block">If your code doesn't work, we don't care how fast it doesn't work</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-About me
+- 🖥️ I'm a computer science student at [The University Of Nottingham](https://www.nottingham.ac.uk/)
+
+- 💬 Learning Dutch in my own free time. ik spreken beetje nederlands :D  <p style="color: #7d8992;">I speak a little Dutch.</p>
+
+- 🎮 Video game and Emulation enthusiast
+  
+- 📺 Hobbyist programmer 
 <!--Intro end-->
 
 
