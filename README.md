@@ -98,14 +98,6 @@
 <a href="https://twitter.com/BigMemeBoicc" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Barnold8&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -119,7 +111,3 @@
   <img src="https://profile-counter.glitch.me/Barnold8/count.svg" />  
 </p>
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/Barnold8)
-
-Last Edited on: 29/4/2023
