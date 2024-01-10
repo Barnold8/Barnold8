@@ -118,6 +118,6 @@
 </p>
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [1010nishant](https://github.com/Barnold8)
 
 Last Edited on: 29/4/2023
