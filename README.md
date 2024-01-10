@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🖥️ I'm a computer science student at [The University Of Nottingham](https://www.nottingham.ac.uk/)
 
-- 💬 Learning Dutch in my own free time. ik spreken beetje nederlands :D  <p style="color: #7d8992;">I speak a little Dutch.</p>
+- 💬 Learning Dutch in my own free time. ik spreken beetje nederlands :D  <span style="color: #7d8992;">I speak a little Dutch.</span>
 
 - 🎮 Video game and Emulation enthusiast
   
