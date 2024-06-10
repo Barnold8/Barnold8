@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -26,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🖥️ I'm a computer science student at [The University Of Nottingham](https://www.nottingham.ac.uk/)
+- 🖥️ I'm a computer science graduate at [The University Of Nottingham](https://www.nottingham.ac.uk/)
 
 - 💬 Learning Dutch in my own free time. ik spreken beetje nederlands :D (I speak a little Dutch)
 
