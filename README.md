@@ -69,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,github,html,java,js,kotlin,linux,md,mysql,postman,py,lua,r,cs,vim,bash,anaconda,androidstudio,cmake,flask,latex,neovim,powershell&vscode=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arch,arch,c,cs,cpp,cmake,css,debian,discord,bots,discordjs,eclipse,flask,git,github,githubactions,gitlab,gmail,go,gradle,html,htmx,java,js,jquery,kali,kotlin,latex,linkedin,lua,md,maven,mysql,neovim,nodejs,npm,obsidian,opencv,p5js,php,postman,pycharm,py,r,regex,rust,sqlite,stackoverflow,subliem,selenium,tailwind,twitter,unity,vim,visualstudio,vscode,windows" />
   </a>
 </p>
 
